@@ -48,7 +48,7 @@ html{
 }
 /* scroll bar */
 ::-webkit-scrollbar {
-  width: 30px;
+  width: 20px;
 }
 
 /* Track */
@@ -291,7 +291,6 @@ html{
   background: var(--mainDark);
   height: 100%;
   clear: both;
-  margin:0 auto;
 }
 .product{
   padding: 2rem 0;
