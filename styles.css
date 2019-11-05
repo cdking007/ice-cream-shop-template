@@ -41,7 +41,7 @@ html{
 .section-center2{
   position: relative;
   padding: 4rem 0;
-  width: 80vw;
+  width: 95vw;
   max-width: 1170px;
   margin: 0 auto;
   display: inline-block;
@@ -291,6 +291,7 @@ html{
   background: var(--mainDark);
   height: 100%;
   clear: both;
+  margin:0 auto;
 }
 .product{
   padding: 2rem 0;
